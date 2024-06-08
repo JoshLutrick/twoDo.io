@@ -9,5 +9,41 @@ body {
     font-size: 50px;
     margin-left: 2rem;
     margin-top: 2rem;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contentSection {
+    text-align: center;
+    margin-top: 5rem;
+}
+#nameOfList {
+    border-radius: 1.5rem;
+    width: 30rem;
+    height: 2.5rem;
+    text-align: center;
+    font-size: 1.4rem;
+}
+#submitBtn {
+    border: none;
+    background-color: rgb(192, 162, 120);
+    color: white;
+    padding: .5rem;
+    padding-left: .9rem;
+    padding-right: .9rem;
+    border-radius: 2rem;
+}
+.contentListContainer {
+
+}
+.contentList {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10rem;
+    width: 30rem;
+    height: 30rem;
+}
+.listStyle {
+    background-color: rgb(192,162,120);
+    color: white;
+    padding: 1rem;
+    font-size: 1.2rem;
 }
